@@ -1,5 +1,5 @@
 {
   "mongoURI": "mongodb+srv://mongoupload:mongoupload@cluster0.b2r72.mongodb.net/devconnector?retryWrites=true&w=majority",
   "jwtSecret": "secret",
-  "githubToken": "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"
+  "githubToken": "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"
 }
